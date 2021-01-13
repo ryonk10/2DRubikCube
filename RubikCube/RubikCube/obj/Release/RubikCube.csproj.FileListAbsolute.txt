@@ -1,0 +1,12 @@
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\bin\Release\RubikCube.exe.config
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\bin\Release\RubikCube.exe
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\bin\Release\RubikCube.pdb
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.csprojAssemblyReference.cache
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.CreaForm.resources
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.RubikCubeForm.resources
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.SetupForm.resources
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.Properties.Resources.resources
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.csproj.GenerateResource.cache
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.csproj.CoreCompileInputs.cache
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.exe
+C:\Users\ryonk\OneDrive\RubikCube\RubikCube\RubikCube\obj\Release\RubikCube.pdb
